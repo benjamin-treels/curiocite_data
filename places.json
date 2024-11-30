@@ -5,7 +5,7 @@
       "latitude": 50.6380,
       "longitude": 3.0701,
       "html": "<p>La Grand Place est l'une des places principales de Lille, connue pour ses bâtiments historiques et son ambiance vivante.</p>",
-      "audioUrl": "",
+      "audioUrl": null,
       "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/13/e7/3b/20180527-115934-largejpg.jpg?w=1200&h=-1&s=1"
     },
     {
@@ -13,7 +13,7 @@
       "latitude": 50.6375,
       "longitude": 3.0656,
       "html": "<p>La Vieille Bourse est un magnifique exemple d'architecture flamande, construite au 17e siècle.</p>",
-      "audioUrl": "",
+      "audioUrl": null,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vieille_bourse_Lille.jpg/1200px-Vieille_bourse_Lille.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 50.6312,
       "longitude": 3.0629,
       "html": "<p>Le Palais des Beaux-Arts de Lille est l'un des plus grands musées d'art en France, abritant des œuvres de grands maîtres européens.</p>",
-      "audioUrl": "",
+      "audioUrl": null,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lille-Palais_des_Beaux-Arts_%282%29.jpg/1200px-Lille-Palais_des_Beaux-Arts_%282%29.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 50.6417,
       "longitude": 3.0622,
       "html": "<p>La cathédrale Notre-Dame-de-la-Treille est un monument emblématique de Lille avec son architecture néogothique.</p>",
-      "audioUrl": "",
+      "audioUrl": null,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cathedrale-Notre-Dame_de_la_Treille-Lille.JPG/1200px-Cathedrale-Notre-Dame_de_la_Treille-Lille.JPG"
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 50.6421,
       "longitude": 3.0480,
       "html": "<p>La Citadelle de Lille, construite par Vauban, est un exemple impressionnant de fortification militaire.</p>",
-      "audioUrl": "",
+      "audioUrl": null,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Citadelle_de_Lille.JPG/1200px-Citadelle_de_Lille.JPG"
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 50.6425,
       "longitude": 3.0482,
       "html": "<p>Le Parc de la Citadelle est un grand espace vert autour de la Citadelle, parfait pour des promenades en plein air.</p>",
-      "audioUrl": "",
+      "audioUrl": null,
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bois_de_la_Deule_%28citadelle_de_Lille%29.jpg/1200px-Bois_de_la_Deule_%28citadelle_de_Lille%29.jpg"
     }
   ]
