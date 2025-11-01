@@ -3,22 +3,34 @@
     {
       "id": 1,
       "slug": "rihour_1",
-      "legend": "La salle des gardes du Palais Rihour vers 1850"
+      "legend": "La salle des gardes du Palais Rihour vers 1850",
+      "credits": [
+        "Bernard Renard"
+      ]
     },
     {
       "id": 2,
       "slug": "rihour_2",
-      "legend": "La chapelle ducale restaurée au XIXe siècle"
+      "legend": "La chapelle ducale restaurée au XIXe siècle",
+      "credits": [
+        "Bernard Renard"
+      ]
     },
     {
       "id": 3,
       "slug": "rihour_3",
-      "legend": "Le Palais Rihour original"
+      "legend": "Le Palais Rihour original",
+      "credits": [
+        "Bernard Renard"
+      ]
     },
     {
       "id": 2,
       "slug": "rihour_4",
-      "legend": "Le beffroi de Palais Rihour"
+      "legend": "Le beffroi de Palais Rihour",
+      "credits": [
+        "Bernard Renard"
+      ]
     }
   ]
 }
