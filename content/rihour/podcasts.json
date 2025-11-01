@@ -25,6 +25,19 @@
         "title": "Une architecture remarquable",
         "duration": "08:45"
       }
+    },
+     {
+      "id": 3,
+      "slug": "rihour_ajd",
+      "sources": [
+        "Archives municipales de Lille, Fonds Rihour",
+        "Musée de l'Hospice Comtesse",
+        "Dossier de restauration du Palais Rihour, 1847"
+      ],
+      "metadata": {
+        "title": "Rihour de nos jours",
+        "duration": "02:03"
+      }
     }
   ]
 }
