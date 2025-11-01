@@ -9,6 +9,16 @@
       "id": 2,
       "slug": "rihour_2",
       "legend": "La chapelle ducale restaurée au XIXe siècle"
+    },
+    {
+      "id": 3,
+      "slug": "rihour_3",
+      "legend": "Le Palais Rihour original"
+    },
+    {
+      "id": 2,
+      "slug": "rihour_4",
+      "legend": "Le beffroi de Palais Rihour"
     }
   ]
 }
