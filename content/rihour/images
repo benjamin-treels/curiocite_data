@@ -1,0 +1,14 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "slug": "rihour_1",
+      "legend": "La salle des gardes du Palais Rihour vers 1850"
+    },
+    {
+      "id": 2,
+      "slug": "rihour_2",
+      "legend": "La chapelle ducale restaurée au XIXe siècle"
+    }
+  ]
+}
