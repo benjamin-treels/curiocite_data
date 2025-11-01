@@ -2,6 +2,7 @@
   "podcasts": [
     {
       "id": 1,
+      "slug": "rihour_histoire_generale",
       "sources": [
         "Archives municipales de Lille, Fonds Rihour",
         "Musée de l'Hospice Comtesse",
@@ -14,6 +15,7 @@
     },
     {
       "id": 2,
+      "slug": "rihour_architecture",
       "sources": [
         "Archives municipales de Lille, Fonds Rihour",
         "Musée de l'Hospice Comtesse",
