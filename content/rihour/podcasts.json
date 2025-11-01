@@ -1,0 +1,28 @@
+{
+  "podcasts": [
+    {
+      "id": 1,
+      "sources": [
+        "Archives municipales de Lille, Fonds Rihour",
+        "Musée de l'Hospice Comtesse",
+        "Dossier de restauration du Palais Rihour, 1847"
+      ],
+      "metadata": {
+        "title": "Histoire générale",
+        "duration": "03:20",
+      }
+    },
+    {
+      "id": 2,
+      "sources": [
+        "Archives municipales de Lille, Fonds Rihour",
+        "Musée de l'Hospice Comtesse",
+        "Dossier de restauration du Palais Rihour, 1847"
+      ],
+      "metadata": {
+        "title": "Une architecture remarquable",
+        "duration": "08:45",
+      }
+    },
+  ]
+}
